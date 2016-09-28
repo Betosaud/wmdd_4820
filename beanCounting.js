@@ -33,7 +33,7 @@ function countChar(word, letter) {  //declaration of function CountChar
 }
 
 
-console.log(countBs("BBC"));
+console.log(countBs("BBC"));  // Prints on console the result returned by the countBs() call
 // → 2
-console.log(countChar("kakkerlak", "k"));
+console.log(countChar("kakkerlak", "k")); // Prints on console the result returned by the countChar() call
 // → 4

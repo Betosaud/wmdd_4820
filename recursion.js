@@ -28,9 +28,9 @@ function isEven(theNumber) {	//declaration of the function isEven, with one para
   
 }
 
-console.log(isEven(50));
+console.log(isEven(50)); // Prints on console the result returned by the isEven() call
 // → true
-console.log(isEven(75));
+console.log(isEven(75)); // Prints on console the result returned by the isEven() call
 // → false
-console.log(isEven(-1));
+console.log(isEven(-1)); // Prints on console the result returned by the isEven() call
 // → false
